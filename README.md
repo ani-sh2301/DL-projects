@@ -1,5 +1,6 @@
 
 # 1. Sign Language Detection
+A team project, members- @Aniket Sharma, @Ansh Chourasia, @Kartik Saxena, @Divyanshi Sharma 
 <li>Data Collection and Preprocessing: Selected the INCLUDE50 dataset and converted video files into frames for further analysis. Extracted relevant features from the video frames, focusing on hand movements, facial expressions, and body posture.
 
 <li>Recognition System Development: Built an LSTM-based deep learning model for sign language recognition, training it with labeled data to recognize glosses or words from sign language videos. Optimized the model for real-time performance using knowledge distillation and LLM fine-tuning with the PEFT method(LoRA).
